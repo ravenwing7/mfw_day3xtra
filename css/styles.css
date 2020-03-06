@@ -1,0 +1,17 @@
+.container-fluid {
+    background-color: black;
+}
+
+nav, footer {
+    background-color: maroon;
+}
+
+.nav-button {
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.nest {
+    padding-top: 20px;
+    background-color: teal;
+}
